@@ -1,0 +1,47 @@
+{
+	{
+		"No.": 1
+		"Descipcion-Token": {
+			"Lexema": ?
+		"Descipcion-Token": {
+			"Fila": 1
+			"Columna": 3
+		}
+	} ,
+	{
+		"No.": 2
+		"Descipcion-Token": {
+			"Lexema": *
+		"Descipcion-Token": {
+			"Fila": 6
+			"Columna": 8
+		}
+	} ,
+	{
+		"No.": 3
+		"Descipcion-Token": {
+			"Lexema": ^
+		"Descipcion-Token": {
+			"Fila": 8
+			"Columna": 2442
+		}
+	} ,
+	{
+		"No.": 4
+		"Descipcion-Token": {
+			"Lexema": +
+		"Descipcion-Token": {
+			"Fila": 26
+			"Columna": 11
+		}
+	} ,
+	{
+		"No.": 5
+		"Descipcion-Token": {
+			"Lexema": @
+		"Descipcion-Token": {
+			"Fila": 61
+			"Columna": 5
+		}
+	} ,
+}
